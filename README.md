@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Semchenock
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me ...
 
