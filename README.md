@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Semchenock
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on backend
+- 🧠 I’m currently grokking some algorithms
 - 📫 How to reach me: semchenock@mail.ru
 
 <!---
